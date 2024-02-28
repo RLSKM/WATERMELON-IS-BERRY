@@ -1,0 +1,29 @@
+body{
+  background-color: #fcfdfd;
+  font-family: comic sans ms;
+}
+
+
+table{
+  border:2px solid black;
+  text-align:center;
+  display:float;
+}
+
+header{
+  text-align:center;
+  border:2px dotted black;
+  
+  
+  
+}
+#target{
+  background-color: #e6e6e6;
+}
+#subject{
+  background-color: #e6e6e6;
+}
+#submit:hover{
+  background-color: #121212;
+  color:white
+}
